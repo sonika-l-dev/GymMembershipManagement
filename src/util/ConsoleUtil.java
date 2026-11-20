@@ -2,7 +2,7 @@ package util;
 
 /**
  * Utility class for printing formatted console banners and separators.
- * Keeps the UI code clean and consistent across all service classes..
+ * Keeps the UI code clean and consistent across all service classes...
  */
 public final class ConsoleUtil {
 
