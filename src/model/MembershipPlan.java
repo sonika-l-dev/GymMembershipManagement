@@ -4,7 +4,7 @@ package model;
  * Represents a Gym Membership Plan.
  *
  * ENCAPSULATION: All fields are private with public getters.
- *
+ *.
  * Four plan types are pre-defined as static constants for easy reuse
  * across the application via MembershipPlan.PLANS map.
  */
