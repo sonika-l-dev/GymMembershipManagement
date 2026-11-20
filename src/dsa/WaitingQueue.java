@@ -3,7 +3,7 @@ package dsa;
 /**
  * A manually implemented Queue using singly-linked nodes.nho
  *
- * DSA REQUIREMENT: This is a hand-coded Queue (not java.util.Queue).
+ * DSA REQUIREMENT: This is a hand-coded Queue (not java.util.Queue)..
  * It is used as a Trainer Waiting List for members waiting to be
  * assigned a trainer when none is immediately available.
  *
