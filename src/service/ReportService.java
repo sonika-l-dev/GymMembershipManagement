@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Service class that generates various system reports...
+ * Service class that generates various system reports....
  * Aggregates data from MemberService, AttendanceService, and TrainerService.
  */
 public class ReportService {
