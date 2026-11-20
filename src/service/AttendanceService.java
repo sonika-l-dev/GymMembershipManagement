@@ -16,7 +16,7 @@ import java.util.Set;
 
 /**
  * Service class managing member attendance.
- *
+ *.
  * COLLECTIONS USED:
  *   - HashMap<String, List<String>> : maps memberId -> list of attendance dates.
  *   - HashSet<String>               : tracks "memberId|date" keys to detect duplicates.
