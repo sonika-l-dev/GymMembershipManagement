@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Service class managing all member-related operations.
+ * Service class managing all member-related operations..
  *
  * COLLECTIONS USED:
  *   - ArrayList<Member>              : stores all registered members.
